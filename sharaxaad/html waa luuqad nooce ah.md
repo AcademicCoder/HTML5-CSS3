@@ -1,0 +1,4 @@
+- html waa luuqad ah mid u taagan qaabayn
+- waa luuqad lagu soo bandhigo qoraalada iyo sawirada sidoo kale muuqaalo iyo codad 
+- waa luuqad aan kamid ahayn luuqadaha logic-ga ah tusaale ahaan maaha mid awood u leh in ay iskugu kaa geyso xisaabta 2+2 = 4
+- waa luuqad static ah ujeedadu waa in aanu element ku is badbadalayn wax walbana sida aad u qorto ayay ahaanayaan.
