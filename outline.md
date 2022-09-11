@@ -4,6 +4,7 @@
  - html waa luuqad nooce ah 
  - html tools
  - html tag vs element
+ - html comments
  - html headings 
  - html pragraphs
  - html nested element
@@ -14,6 +15,7 @@
  - html lists 
  - html html form
  - html multimedia
+ - html semantic
 
 
  # CSS3 OUTLINE:
