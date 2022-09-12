@@ -1,0 +1,67 @@
+/* css properties ka qaar badan ayaan ka isticmaalayna 
+kuwaas oo aynu ku base garayn doono 
+elements yada inoogu jira qaybta format.html
+ */
+
+ /* font-size property */
+ b{
+    font-size: 140px;
+ }
+ /* text-decoration property */
+ p{
+    text-decoration: underline;
+    /* waa nooc kamida oo aad isticmali kartid */
+    text-decoration: double;
+    /* waa nooc kamida oo aad isticmali kartid */
+    text-decoration: dotted;
+    /* iyo qaarkaloo badan */
+ }
+ /* text aligment: oo ah inaan qoralkeeni maamuli karno 
+ tusaale ahaan midig iyo bidix iyo dhex */
+
+p{
+    text-align: left;
+    /* waa nooc kamida oo aad isticmali kartid */
+    text-align: center;
+    /* waa nooc kamida oo aad isticmali kartid */
+    text-align: right;
+}
+/* font family : oo ah inaan farta nooceeda badali karno 
+ */
+
+ h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ /* border: oo ah inaad xayndaab kusoo wareejin karto element kaagi */
+ p{
+    border: 1px solid red;
+    /* waa nooc kamida oo aad isticmali kartid */
+    border: 1px dotted green;
+    /* waa nooc kamida oo aad isticmali kartid */
+    border: 1px dashed blue;
+    /* waa nooc kamida oo aad isticmali kartid */
+    border: 1px double tomato;
+ }
+
+ /* inaad element kaagi jihooyin u kala diri kartid */
+ p{
+    /* waa in shaygii aad hoos usoo dejin kartid */
+    transform: translateY(20px);
+    /* waa in shaygii aad kor dib ugu celin kartid */
+    transform: translateY(-20px);
+    /* waa in shaygii aad midig u kaxayn kartid */
+    transform: translateX(100px);
+    /* waa in shaygii aad bidix u kaxayn kartid */
+    transform: translateX(-100px);
+}
+
+/* in aad qoraalkaagi aad maamuli kartid */
+p{
+    /* waa in qoraalki xarafka kowwad jumlad kasta la waynaynayo */
+    text-transform: capitalize;
+    /* waa in qoralkagi lagawad dhigayo mid yaryar oo isku mid ah  */
+    text-transform: lowercase;
+    /* waa in qoraalkaagi hadii uu yaryara laga dhigayo mid wawayn oo ah uppercase */
+    text-transform: uppercase;
+}
