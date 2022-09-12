@@ -1,0 +1,17 @@
+/* css waxay leedahay waxyaabo u gaar ah 
+
+si aad u isticmaasho waa in aad saddexdan shuruudood aad buuxisa.
+
+1. selector: selector waaka shaqada laga qabanayo kaas oo noqon kara element kasta oo ku jira website kaaas aad dhisayso
+2. properties: waa waxa lasiinayo element kaas ee uu qaadanayo shaqo ahaana loogu talo galay inuu qabto 
+3. value: waa waxa uu yeelan doono propert gu kaas oo noqonaya waxa jaan goynaya sida uu u eekanayo element kas.
+*/
+
+/* body hada waa selector */
+body {
+    /* color: waa propert  red: waa propertga qiimihiisa sidoo kale jaan goynaya sida uu u eekaanayo element ku. */
+    color: red;
+}
+
+/* internal css waxaan kusoo sameeyey format.html */
+/* inline css waxaan kusoo sameeyey headings.html iyo style.html */

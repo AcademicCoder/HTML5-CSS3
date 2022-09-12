@@ -1,0 +1,58 @@
+/* form css waxaan kaga soo xidhay form.html */
+/* tittle ka hoostiisa waaniga kaga soo xidhay linkgiisii */
+
+/* ugu horeyn waxaan maamuli doona guud ahan page ka anoo midabka ka badalaya */
+/* html waa root ka isaga ayaana halkan ah imika tagname selectorka waxa uu la mid yahay universal ka isaga iyo body */
+html{
+    /* kan midabka guud ee page ka ayaan ku badalay */
+    background-color: dodgerblue;
+    /* kan dhamaan waxa mesha ku jira ayuu dhexda dhigaya */
+    margin: auto;
+    /* kan wuxuu ka ilalinaya in ay dhaqaaqan */
+    display: block;
+    /* kan qoraalka ayuu dhexda ii dhigaya */
+    text-align: center;
+
+}
+/* hadana waxan maamulaya ka ay ku jiraan elements yada badan  */
+form{
+    /* kan waa midka ku wareegsan  */
+     border: 1px solid white;
+     /* kan waa midabka aan siiyay form ka */
+     background-color: white;
+     /* kan gudaha wixii cidhiidhi ka jira ayuu kala furaya */
+     padding: 10px;
+     /* kan banaanka wixii cididhi ka jira ayuu kala furaya */
+     margin: 10px;
+     /* kan wuxuu isku soo dhawaynaya ama kala bixinaya cabirka */
+     width: 500px;
+     /* kan waxa uu mamulaya kor iyo hoos sidoo kale hareeraha */
+     transform: translateX(400px) translateY(50px);
+     /* kan waxaan soo yara laabay midabka formka hareerihiisa  */
+     border-radius: 30px;
+}
+/* kan waxan maamulaya text box yada xogta laga soo gelinayo */
+input{
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid gray
+}
+
+button{
+    /* kan wuxuu ii mamulaya jiahada sare inan kasoo dajin karo element kii */
+    margin-top: 20px;
+    /* kan wuxu ii mamulaya ballaca */
+    width: 150px;
+    /* kan gudaha */
+    padding: 10px;
+    /* kan wuuxu ka saraya ka ku wareegsan */
+    border: 0;
+    /* kan wuxu siinaya mid dambe  */
+    background-color: springgreen;
+    /* kan qoralka buttonka ku dhex qoran ayuu midabka sinaya */
+    color: white;
+    /* kan cabirka farta ayaan ku wawaynayn kara */
+    font-size: 17px;
+    /* kan farta ayaa waxa uu ka dhigaya mid xurufta hore wawayn yihiin */
+    text-transform: capitalize;
+}

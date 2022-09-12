@@ -1,0 +1,21 @@
+/* list yadan ayaan ka dhigi doona mid 
+qayb kastaaba ku jirto box u gaar ah */
+/* si taa aan u sameeyo waa in aan 
+html ku laabta kadob mid kasta an siiyaa 
+class u gaar ah oo uu kaag soocan yahay ka kale 
+
+ka koowad waxaan class kiisa usoo bixiyay hargeisa oo ah magaca uu ka turjumayo */
+/* si aan u maamuli karo waa in aan ku bilaaba dot ama dhibic kadib magacii aan usoo bixiyay  */
+
+.hargeisa{
+    /* kan waxaan kaga saaray gudaha wixii cidhiidhi ah  */
+    padding: 10px;
+    /* kan waxaan kaga saaray numberskii ama bullets kii uu watay  */
+    list-style: none;
+    /* kan waxan kaga saaray bananka wixii cidhiidhi ah */
+    margin: 10px;
+    /* kan cabirka ballaca ayaan ku mamulay */
+    width: 300px;
+    /* kan hareeraha ayaan kasoo galiyay box */
+    border: 1px solid red;
+}
