@@ -1,0 +1,24 @@
+/* css properties badan ayaynu halkan kaga hadli doona  */
+/* p: waa selector css  */
+p 
+/* curly brackets dhexdisa ayaa waxa ku qorma dhamaan properties ka iyo values kooda  */
+{
+/*propoert|value : farta ayaa lagu mamulaya */
+font-size: 22px;
+/* property yada waxa kamid ah  */
+/* kan dhexda ayu geynaya */
+text-align: center;
+/* kan midabka sare ayuu badalaya */
+color: red;
+/* kan midabka dambe ayuu badalaya */
+background-color: seagreen;
+/* kan wuxu u samaynaya xayndaab */
+border: solid;
+/* kan xaydanbka ayuu gudaha waynaynayaa */
+padding: 20px;
+/* kan hareeraha ayuu kasoo durkinayaa */
+margin: 20px;
+
+
+
+}

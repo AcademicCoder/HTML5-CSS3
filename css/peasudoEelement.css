@@ -1,0 +1,44 @@
+/* psaudo element waa ay faro badan yihiin waxana kamid ah
+1. active
+2. befor 
+3. after
+4. first-line
+5. marker
+6. selection
+
+
+*/
+
+input::placeholder{
+    color: seagreen;
+    font-size: 14px;
+}
+
+/* pseudo element kan wuxuu inoo sahlaya in qoralka aynu xarfka ugu horeya aynu maamuli karno */
+p::first-letter{
+    /* midabka xarafka ugu horeya */
+    color: red;
+    /*maamulista cabirka xarafka ugu horeya */
+    font-size: 33px;
+    /* u samaynta line xagga hoose xarafka ugu horeya */
+    text-decoration: underline;
+}
+
+/* pseudo element kan first-line  waxay inoo sahlaysaa in aynu line ka koowaad oo qudha aynu waxka badali karno qoraalka */
+h1::first-line{
+    /* midabka line ka ugu sareeya */
+color: blue;
+/* wawaynaynta qoraalka sare oo qudha */
+text-transform: uppercase;
+}
+
+/* befor  */
+span::before{
+    /* waxaad befor soo galin kartaa sawir ama wixii kale ee la xidhidha */
+    content: url(/images/imageHtml.jpg);
+}
+
+span::after{
+    /* kanna waxa uu lamid yahay kii hore oo kale */
+    content: url(/images/unorederedList.gif);
+}
