@@ -1,0 +1,58 @@
+/* halkan waxaa tusaale ahaan ku arki doonaa 
+wixii gacan ka qabad ah ee la xidhiidha boxmodel ka 
+ */
+
+/* hadaba boxmodel markaan isticmaalayno maaha wax ka duwan wixii ayny awal isticmaali jirnay 
+waxa inagu cusub oo qudha padding oo gudaha boxka inoo maamuli doona 
+margin wuxuu inoo mamulayaa banaanka box ka 
+ */
+ 
+ .xog{
+    /* width waxay inoo mamulaya ballaca boxka  */
+    width: 500px;
+    /* height waxay inoo mamulaysa dhererka boxka */
+    height: 500px;
+    /* background waxay midab siinaysa boxka */
+    background-color: indigo;
+    /* color waxay midab siinaysa qoraalka ku jira boxka */
+    color:white;
+    /* padding waxay maamulaysaa gudaha boxka */
+    padding: 50px;
+    /* margin waxay mamulaysaa bannaanka boxka  */
+    margin: 50px;
+    /* text-align waxay inoo mamulaysa in xogtii boxka ku jirtay aynu geyn karno halkii aynu doono  */
+    text-align: center;
+ }
+
+
+ /* hadaba boxmdel ka paddin iyo margin ayaa inoogu jira ayaynu shegnay 
+ hadaba padding oo gudaha maamulaya mar waa si guud 
+ mar waa sidii aad doonto oo ah jiho alle iyo jihadii aad doonto 
+ margin waxay inoo maamusha bananka boxka 
+ hadaba marginka waxaad awood u yeelan kartaa in aad 
+ si guud u isticmaali karto 
+ in aad jihooyinka alle iyo jihooyinka aad doonto gayn karto boxkii
+ */
+
+.xogkale{
+    /* kan waxa uu kasoo kaxaynaya xogtii ku jirtay boxka dhinaca bidix */
+    padding-left: 20px;
+    /* kan waxa uu kasoo kaxaynayaa xogtii boxka ku jiray dhinaca midig */
+    padding-right: 20px;
+    /* kan waxa uu kasoo kaxaynaayaa dusha sare xogtii ku jirtay boxka  */
+    padding-top: 20px;
+    /* kan waxa uu kasoo kaxaynayaa xogtii ku jiray boxka xagga hoose */
+    padding-bottom: 20px;
+    /* kan waxa uu bananka oo xagga sare ah kasoo kaxaynaya  */
+    margin-top: 20px;
+    /* kan waxa uu bananka oo dhanka hoose ah kasoo kaxaynayaa */
+    margin-bottom: 20px;
+    /* kan waxa  uu banaanka kasoo kaxaynayaa dhanka bidix */
+    margin-left: 20px;
+    /* kan waxa uu banaanka kasoo kaxaynayaa dhanka midig */
+    margin-right: 20px;
+    /* kan waxa uu midab siinayaa boxkii */
+    background-color: tomato;
+    /* kan waxa uu qoraalka jihada aad ugu talo gashay gaynayaa dhinaa dhexe */
+    text-align: center;
+}

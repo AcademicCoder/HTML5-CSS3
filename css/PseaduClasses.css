@@ -1,0 +1,9 @@
+/* pseaudo classes 
+
+waxay lamid tahay kii hore ee aha pseaudo elements 
+*/
+
+.text::first-letter{
+    color: red;
+    font-size: 33px;
+}
