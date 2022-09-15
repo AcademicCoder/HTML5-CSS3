@@ -1,0 +1,16 @@
+.boxes{
+    /* kan waxa uu is hordhigayaa dhamaan wixii box ah ee ku dhex jiray boxes ka  */
+    display: flex;
+
+}
+
+.box{
+    /* kan waxa uu midkasta siinayaa midab */
+    background-color: dodgerblue;
+    /* kan waxa uu kala durkinaya box kasta in yar  */
+    gap: 20px;
+    /* kan waxa uu kala bixinaya gidaarka boxka iyo xogta ku jirta */
+    padding: 5px;
+    /* kan waxa uu gidaar kasta kasoo jarayaa hareeraha banaanka */
+    margin: 5px;
+}
